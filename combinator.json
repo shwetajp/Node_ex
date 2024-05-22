@@ -1,0 +1,159 @@
+{
+  "0-100": [
+    {
+      "title": "Gordon Bell has diedarstechnica.com",
+      "link": "https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/",
+      "comments": 59
+    },
+    {
+      "title": "How I Made Google's \"Web\" View My Default Searchtedium.co",
+      "link": "https://tedium.co/2024/05/17/google-web-search-make-default/",
+      "comments": 48
+    },
+    {
+      "title": "A Road to Common Lisp (2018)stevelosh.com",
+      "link": "https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/",
+      "comments": 50
+    },
+    {
+      "title": "A transport protocol's view of Starlinkapnic.net",
+      "link": "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/",
+      "comments": 2
+    },
+    {
+      "title": "Tillywork: Open-Source Work Managementgithub.com/tillywork",
+      "link": "https://github.com/tillywork/tillywork",
+      "comments": 8
+    },
+    {
+      "title": "Counted B-Trees (2017)greenend.org.uk",
+      "link": "https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html",
+      "comments": 7
+    },
+    {
+      "title": "Amber: Programming language compiled to Bashamber-lang.com",
+      "link": "https://amber-lang.com/",
+      "comments": 61
+    },
+    {
+      "title": "Storing knowledge in a single long plain text filebreckyunits.com",
+      "link": "https://breckyunits.com/scrollsets.html",
+      "comments": 66
+    },
+    {
+      "title": "Learn things that don't changetechworld-with-milan.com",
+      "link": "https://newsletter.techworld-with-milan.com/p/learn-things-that-dont-change",
+      "comments": 1
+    },
+    {
+      "title": "Fast real time fluid simulator based on MPM algorithmkotsoft.github.io",
+      "link": "https://kotsoft.github.io/",
+      "comments": 15
+    },
+    {
+      "title": "Show HN: Openpanel – An open-source alternative to Mixpanelgithub.com/openpanel-dev",
+      "link": "https://github.com/Openpanel-dev/openpanel",
+      "comments": 55
+    },
+    {
+      "title": "The Stanford Startup and the MIT Startup (2013)fpgacomputing.blogspot.com",
+      "link": "http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html",
+      "comments": 23
+    },
+    {
+      "title": "Alacritty – A fast, cross-platform, OpenGL terminal emulatorgithub.com/alacritty",
+      "link": "https://github.com/alacritty/alacritty",
+      "comments": 86
+    },
+    {
+      "title": "The Effects of Early Relational Trauma (2001) [pdf]allanschore.com",
+      "link": "https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf",
+      "comments": 61
+    },
+    {
+      "title": "I want flexible queries, not RAGwin-vector.com",
+      "link": "https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/",
+      "comments": 94
+    },
+    {
+      "title": "CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Managerycombinator.com",
+      "link": "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager",
+      "comments": 0
+    },
+    {
+      "title": "Possible firmware issues for Apple Silicon OpenBSD/ARM64 usersundeadly.org",
+      "link": "https://www.undeadly.org/cgi?action=article;sid=20240522045252",
+      "comments": 13
+    },
+    {
+      "title": "Designed to Crash: the story of Antonov An-28 HA-LAJ and its demiseadmiralcloudberg.medium.com",
+      "link": "https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924",
+      "comments": 23
+    },
+    {
+      "title": "How Should We Critique Research?gwern.net",
+      "link": "https://gwern.net/research-criticism",
+      "comments": 4
+    },
+    {
+      "title": "Abusing url handling in iTerm2 and Hyper for code executionvin01.github.io",
+      "link": "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html",
+      "comments": 18
+    },
+    {
+      "title": "Emory Awards, Then Suspends Students Behind Study-Aide Appgovtech.com",
+      "link": "https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app",
+      "comments": 5
+    },
+    {
+      "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnettransformer-circuits.pub",
+      "link": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+      "comments": 20
+    },
+    {
+      "title": "Show HN: I built a game to help you learn neural network architecturessabrina.dev",
+      "link": "https://graphgame.sabrina.dev/",
+      "comments": 56
+    },
+    {
+      "title": "Images that Sound: Generating spectrograms that are also imagesificl.github.io",
+      "link": "https://ificl.github.io/images-that-sound/",
+      "comments": 34
+    }
+  ],
+  "101-200": [
+    {
+      "title": "The curious case of the missing periodtjaart.substack.com",
+      "link": "https://tjaart.substack.com/p/the-curious-case-of-the-missing-period",
+      "comments": 118
+    },
+    {
+      "title": "Business Booms and Depressions Since 1775 (1943)stlouisfed.org",
+      "link": "https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145",
+      "comments": 162
+    },
+    {
+      "title": "Wikimedia Enterprise – APIs for LLMs, AI Training, and Morewikimedia.com",
+      "link": "https://enterprise.wikimedia.com/",
+      "comments": 104
+    },
+    {
+      "title": "CADmium: A local-first CAD program built for the browsermattferraro.dev",
+      "link": "https://mattferraro.dev/posts/cadmium",
+      "comments": 181
+    },
+    {
+      "title": "\"No way to prevent this\" say users of only language where this regularly happensxeiaso.net",
+      "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/",
+      "comments": 121
+    }
+  ],
+  "201-300": [],
+  "301-n": [
+    {
+      "title": "What UI density means and how to design for itmatthewstrom.com",
+      "link": "https://matthewstrom.com/writing/ui-density/",
+      "comments": 317
+    }
+  ]
+}
